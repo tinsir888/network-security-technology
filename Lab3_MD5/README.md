@@ -1,4 +1,4 @@
-# File Integrity Check Program Based on MD5 Algorithm
+# Lab 3 File Integrity Check Program Based on MD5 Algorithm
 
 ## compile
 `g++ *.cpp -o md5`
