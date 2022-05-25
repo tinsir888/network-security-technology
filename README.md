@@ -4,7 +4,7 @@ Network security technology(professional elective in my 6th semester in NKUCS) p
 
 The course seems to be a combination with Computer network and Cryptography. Taught by Assoc. Prof. Zhang Yu.
 
-There are ? labs in this course.
+There are 4 labs in this course.
 
 ## Lab 1 TCP chatting-room program based on DES encryption
 
